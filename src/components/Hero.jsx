@@ -1,7 +1,10 @@
 import React from 'react'
+import { Navbar } from './Navbar'
 
 export const Hero = () => {
-  return (
-    <div>Hero</div>
-  )
+    return (
+        <div className="m-auto border-2 border-black max-w-[1440px] min-h-[780px] bg-[#FFFFFF]">
+            <Navbar />
+        </div>
+    )
 }
