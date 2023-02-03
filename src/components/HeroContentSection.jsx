@@ -3,7 +3,7 @@ import { HeroImageSection } from './HeroImageSection'
 
 export const HeroContentSection = () => {
     return (
-        <div className='flex relative z-{0}'>
+        <div className='h-[650px] flex relative z-{0}'>
             <div className="ml-[135px] mt-[50px] h-[481px] w-[646px]">
                 <div className='h-[30px] w-[359px] flex'>
                     <img src='./verify.png' />
