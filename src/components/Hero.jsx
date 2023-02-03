@@ -8,7 +8,7 @@ import { WhyUs } from './WhyUs'
 
 export const Hero = () => {
     return (
-        <div className="m-auto border-2 w-[1440px] min-h-[780px] relative bg-[#FFFFFF]">
+        <div className="m-auto  w-[1440px] min-h-[780px] relative bg-[#FFFFFF]">
             <Navbar />
             <HeroContentSection />
             <Partners />
