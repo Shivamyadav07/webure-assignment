@@ -14,6 +14,8 @@ export const Hero = () => {
             <Partners />
             <Services />
             <WhyUs />
+            <img className='w-[1440px] h-[630px]' src='./page2.png' />
+            <img className='w-[1440px] h-[400px]' src='./page1.png' />
         </div>
     )
 }
