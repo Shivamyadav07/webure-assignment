@@ -2,7 +2,7 @@ import React from 'react'
 
 export const Services = () => {
     return (
-        <div className='border-2 py-[50px] px-[135px] max-w-[1440px] h-[441px]'>
+        <div className=' py-[50px] px-[135px] max-w-[1440px] h-[441px]'>
             <p className='text-left  text-[#F17216] text-[16px] font-normal'>Services</p>
             <div className='flex'>
                 <div className='h-[250px] w-[335px] text-left'>
