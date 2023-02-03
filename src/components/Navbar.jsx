@@ -2,7 +2,7 @@ import React from 'react'
 
 export const Navbar = () => {
   return (
-    <div className="sticky relative z-{10} top-0 bg-[#FFFFFF] font-Ubuntu items-center max-w-[1440px] h-[55px] px-[135px]  flex justify-between">
+    <div className="sticky  z-[10] top-0 bg-[#FFFFFF] font-Ubuntu items-center max-w-[1440px] h-[55px] px-[135px]  flex justify-between">
         <p className="text-[26px] italic font-bold text-rose-600">Webure Technologies</p>
         <div className="flex gap-5 text-[16px] font-normal text-[#747582]">
             <p>About Us</p>
