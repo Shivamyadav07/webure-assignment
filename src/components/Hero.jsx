@@ -6,6 +6,7 @@ import { Partners } from './Partners'
 import { Services } from './Services'
 import { WhyUs } from './WhyUs'
 import { OurServices } from './work/OurServices'
+import { ServicesSection2 } from './work/ServicesSection2'
 
 export const Hero = () => {
     return (
@@ -18,6 +19,7 @@ export const Hero = () => {
             <img className='w-[1440px] h-[630px]' src='./page2.png' />
             <img className='w-[1440px] h-[400px]' src='./page1.png' />
             <OurServices />
+            <ServicesSection2 />
         </div>
     )
 }
